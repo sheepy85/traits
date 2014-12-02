@@ -1,0 +1,21 @@
+{
+   "name" : "sheepy85/traits",
+   "description" : "trait library for Laravel 5",
+   "license" : "MIT",
+   "authors" : [
+      {
+         "name" : "Sheepy85",
+         "email" : "sheepy85@gmail.com"
+      }
+   ],
+   "require" : {
+      "php" : ">=5.4.0",
+      "illuminate/support" : "5.0.*"
+   },
+   "autoload" : {
+      "psr-0" : {
+         "Sheepy85\\Traits" : "src/"
+      }
+   },
+   "minimum-stability" : "stable"
+}
